@@ -13,3 +13,9 @@ Files:
 "metadata-merging.ipynb": this Jupyter Notebook describes the approach of merging together all individual metadata files. After a first general concatenation, columns were then homogenised according to identical information. 
 
 "unite_taxonomy-fungaltraits-merging.iypnb": this Jupyter Notebook shows how the two tables were merged based on genus. Genera needed to be extracted from more complex taxonomic names. 
+
+"prevalence-plot.R": RStudio Script used for creating the plot on prevalence
+
+"abundance-plot.R": RStudio Script used for creating the plot on abundance
+
+"observed-features-plot.R": RStudio Script used for creating the plot on observed features
