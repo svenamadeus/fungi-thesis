@@ -19,3 +19,7 @@ Files:
 "abundance-plot.R": RStudio Script used for creating the plot on abundance
 
 "observed-features-plot.R": RStudio Script used for creating the plot on observed features
+
+"metadata-columns.txt": list of all metadata columns that remained after merging and concatenating
+
+"metadata-with-prevalence-abundance-observed_features.tsv": spreadsheet consisting of all minimal metadata extended with prevalence, abundance and observed features on sample level and for all subgroups "Non-resident", "Macorfungi", "Plant Pathogens", "Lichenized", "Ectomycorrhizal", "Arbuscular Mycorrhizal"
