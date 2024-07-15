@@ -1,0 +1,78 @@
+Columns in final metadata spreadsheet:
+Experiment ID
+Biosample ID
+Bioproject ID
+Study ID
+Sample Accession
+Organism
+Library Source
+Library Layout
+Platform
+Name
+Tax ID
+Instrument
+Library Selection
+Geo Loc Name [sample]
+Library Name
+Host [sample]
+Latitude [sample]
+Longitude [sample]
+Collection Date [sample]
+Sample ID [sample]
+Submitter ID [sample]
+Patient ID [sample]
+Project Name [sample]
+Env Local Scale [sample]
+Env Broad Scale [sample]
+Host Age [sample]
+Env Biome [sample]
+Env Feature [sample]
+Investigation type [sample]
+Sequencing method [sample]
+Environmental package [sample]
+Host Sex [sample]
+Subject Id [sample]
+Common name [sample]
+Host Disease [sample]
+Ethnicity [sample]
+Scientific Name [sample]
+Bmi [sample]
+Antibiotics [sample]
+Smoking [sample]
+Animal Contact [sample]
+Bristol Stool Scale [sample]
+Drinking [sample]
+Weight [sample]
+Host Height [sample]
+Delivery Mode [sample]
+Sample Prefix [sample]
+Code [sample]
+Timepoint [sample]
+Treatment [sample]
+Time [sample]
+Gastrointest Disord [sample]
+Irritable bowel syndrome (ibs) [study]
+Agegp 3 [sample]
+Agegp [sample]
+Drinkingwater [sample]
+Housinginfrastructure [sample]
+Storage Method [sample]
+Hospitalised First 6mnths [sample]
+Child Breastfed [sample]
+How Was The Child Born [sample]
+Exclusively Breastfed [sample]
+Pet in Household [sample]
+Prem Birth [sample]
+Poorgrowth [sample]
+Age Solid Food Intro [sample]
+Antibioticsixmonths [sample]
+Source Material Id [sample]
+Months Child Breastfed [sample]
+Day [sample]
+How Long Breastfed [sample]
+Age Categories [run]
+Diabetes Mellitus [run]
+Diarrhea [run]
+Sample Or Control [run]
+Sex [run]
+Inflammatory Bowel Disease [run]
