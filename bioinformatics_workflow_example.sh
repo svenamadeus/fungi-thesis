@@ -3,18 +3,18 @@
 #SBATCH --mem-per-cpu=8G         #Requesting 8 Gb memory per core
 #SBATCH --time=120:00:00          #Requesting 120 hours of run-time
 #SBATCH --mail-type=FAIL         #Email if the job fail
-#SBATCH --mail-user=anton.lavrinienko@hest.ethz.ch      #Email address
+#SBATCH --mail-user=      #Email address
 
 
 source activate qiime2-amplicon-2024.2
 
-path="/cluster/scratch/alavrinienko/FUNGUIDE"
+path="path"
 project_id="PRJEB42375"
 fwprim="CTTGGTCATTTAGAGGAAGTAA"
 revcomp="GCATCGATGAAGAACGCAGC"
 
 #######################################################
-echo "Anton Lavrinienko, FUNGUIDE project, 17 May 2024"
+echo "..."
 echo "$(date) start ${SLURM_JOB_ID}/${project_id}"
 #######################################################
 
